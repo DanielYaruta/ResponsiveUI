@@ -25,9 +25,3 @@
 - **Compile SDK:** 36.1
 - **UI:** XML layouts, ConstraintLayout, Material3
 - **Компоненты:** `RecyclerView`, `ShapeableImageView`, `LinearLayout`
-
-## Запуск
-
-1. Открой проект в Android Studio
-2. Подключи устройство или запусти эмулятор
-3. Нажми Run
